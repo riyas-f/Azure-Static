@@ -1,11 +1,11 @@
-# my-gaming-website
-<p> This is one of the gaming websites that i created with HTML and CSS that will greatly enhance your CSS skills if you practice to build it as closely as it is, you will improve your CSS skills without no doubt. </p>
+![WhatsApp Image 2023-08-20 at 15 38 34](https://github.com/riyas-f/Azure-Static/assets/82996580/d8b76983-f1b9-4942-8534-1299f8520423)# Azure-Static
+
+<p> This is one of the gaming static websites template that i used to deployment in CI/CD pipeline in Azure.github, Jenkins, sonarqube and dorcker is used for creating the pipeline.</p>
+
+<h3>Architecture</h3>
+
+![Uploading WhatsApp Image 2023-08-22 at 17.29.01.jpg…]()
+
+<p>Jenkins is a popular open-source automation server that helps automate various tasks in the software development process, including building, testing, and deploying software. Github is a code repository that provides version control and collaboration tools, and Sonarqube is a code quality management tool that helps analyze and manage code quality in software projects. Docker is a containerization platform that helps simplify the deployment of software applications.</p>
   
 <p> Try to pratice and achieve the same thing. if you get stuck in anyway, the source code is already provided. you could clone it and go through it if needed. </p>
-
-# How to Incorporate Font awesome Icon locally on your Computer 
-
-1. grab the Webfonts FOlder and place it in your root project file
-2. copy the all.min.css file and place it your head tag and link it up by using the <link> tag and reference it with all.min.css 
-e.g <link rel="stylesheet" href="all.min.css">
-4. after that you can make use of any icon in your project as long as you know the name of the icon you want to use. If you don't know the name of the icon that you want, you can head over to fontawesome.com and search for the icon you want to incoporate in your project
