@@ -1,5 +1,5 @@
 
-<p> This is one of the gaming static websites template that i used to deployment in CI/CD pipeline in Azure.github, Jenkins, sonarqube and dorcker is used for creating the pipeline.</p>
+<p> This is one of the gaming static websites template that i used to deployment in CI/CD pipeline in Azure.github, Jenkins, sonarqube and dorker is used for creating the pipeline.</p>
 
 <h3>Architecture</h3>
 
