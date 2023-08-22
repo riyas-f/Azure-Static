@@ -7,4 +7,3 @@
 
 <p>Jenkins is a popular open-source automation server that helps automate various tasks in the software development process, including building, testing, and deploying software. Github is a code repository that provides version control and collaboration tools, and Sonarqube is a code quality management tool that helps analyze and manage code quality in software projects. Docker is a containerization platform that helps simplify the deployment of software applications.</p>
   
-<p> Try to pratice and achieve the same thing. if you get stuck in anyway, the source code is already provided. you could clone it and go through it if needed. </p>
