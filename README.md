@@ -1,4 +1,3 @@
-![WhatsApp Image 2023-08-20 at 15 38 34](https://github.com/riyas-f/Azure-Static/assets/82996580/d8b76983-f1b9-4942-8534-1299f8520423)# Azure-Static
 
 <p> This is one of the gaming static websites template that i used to deployment in CI/CD pipeline in Azure.github, Jenkins, sonarqube and dorcker is used for creating the pipeline.</p>
 
